@@ -9,7 +9,7 @@ const Projects = () => {
       technologies: ["React","Tailwind CSS", "NLP", "ML",  "Gemini API","TF-IDF","Flask"],
       image: "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg",
       githubUrl: "https://github.com/gopireddy99/Symptom_Solver---Disease_diagnosis_using_NLP.git",
-      liveUrl: "https://ecommerce-demo.netlify.app"
+      liveUrl: "https://symptomsolver.netlify.app/"
     },
     {
       title: "Recipe Finder",
@@ -20,7 +20,7 @@ const Projects = () => {
       liveUrl: "https://taskflow-app.netlify.app"
     },
     {
-      title: "Universal Language Translator",
+      title: "Universal Language Translator",symptomsolver.netlify.app
       description: "A simple web application that translates text between 50+ languages.It uses intelligent language models for automated and accurate text generation across languages.Designed to break language barriers and enable seamless global communication.",
       technologies: ["JavaScript", "React", "mymemory API", "Generative AI" ],
       image: "https://miro.medium.com/v2/resize:fit:1400/0*tAHPEZg9biCMwC-d.gif",
