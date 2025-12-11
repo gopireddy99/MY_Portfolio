@@ -58,6 +58,14 @@ const Certifications = () => {
       description: "Learned Generative AI Techniques and how emerging these in real world . Analyzing various distributions and how they are contributing to build new models.",
       credentialUrl: "https://www.geeksforgeeks.org/certificate/f5026a6f1d8a84487a4e3abbb01f4003",
       skills: ["GEN AI", "ChatGPT", "Real-World Applications", "Distributions"]
+    },
+    {
+      title: "NPTEL-Programming in Java",
+      issuer: "NPTEL",
+      date: "April 2024",
+      description: "Learned fundamental to advanced Java programming concepts and how Java is emerging across modern software ecosystems.",
+      credentialUrl: "https://archive.nptel.ac.in/noc/B2C/candidate_login/candidate_scores.php?courseid=noc24-cs43",
+      skills: ["Java", "Basics", "Functions", "Arrays"]
     }
   ];
 
