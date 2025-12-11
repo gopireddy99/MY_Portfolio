@@ -4,13 +4,13 @@ import { Download, Eye, FileText } from 'lucide-react';
 const Resume = () => {
   const handleViewResume = () => {
     // In a real application, this would open a PDF viewer
-    window.open('/my resume.pdf', '_blank');
+    window.open('/my resume(2).pdf', '_blank');
   };
 
   const handleDownloadResume = () => {
     // In a real application, this would trigger a download
     const link = document.createElement('a');
-    link.href = '/my resume.pdf';
+    link.href = '/my resume.pdf(2)';
     link.download = 'Nithish Kumars.pdf';
     link.click();
   };
